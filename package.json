@@ -21,7 +21,7 @@
     "debug": "2.2.0",
     "eonasdan-bootstrap-datetimepicker": "4.15.35",
     "express": "4.13.4",
-    "ibm_db": "1.0.0",
+    "ibm_db": "2.7.1",
     "jade": "1.11.0",
     "jquery": "3.0.0",
     "log4js": "0.6.37",
